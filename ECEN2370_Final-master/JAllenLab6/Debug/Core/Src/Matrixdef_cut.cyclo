@@ -1,0 +1,12 @@
+../Core/Src/Matrixdef_cut.c:14:6:START_SCREEN	3
+../Core/Src/Matrixdef_cut.c:55:6:GAME_OVER	1
+../Core/Src/Matrixdef_cut.c:95:6:RND_NUM	3
+../Core/Src/Matrixdef_cut.c:109:9:check_State	14
+../Core/Src/Matrixdef_cut.c:155:6:object_Select	8
+../Core/Src/Matrixdef_cut.c:256:6:shift_Left	2
+../Core/Src/Matrixdef_cut.c:271:6:shift_Right	2
+../Core/Src/Matrixdef_cut.c:287:6:tick_Matrix	1
+../Core/Src/Matrixdef_cut.c:306:6:transform_rotation	37
+../Core/Src/Matrixdef_cut.c:720:6:printMatrix	8
+../Core/Src/Matrixdef_cut.c:755:6:Matrix_clear	1
+../Core/Src/Matrixdef_cut.c:761:6:Matrix_update	1

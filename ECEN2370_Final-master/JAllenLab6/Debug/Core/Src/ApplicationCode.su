@@ -1,0 +1,3 @@
+../Core/Src/ApplicationCode.c:14:6:applicationInit	8	static
+../Core/Src/ApplicationCode.c:29:6:LCDTouchScreenInterruptGPIOInit	32	static
+../Core/Src/ApplicationCode.c:55:6:EXTI15_10_IRQHandler	16	static
